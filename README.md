@@ -15,3 +15,7 @@ The program provides a `toBinary` function, which takes an integer as input and 
 4. Inside the loop, the `%` (modulus) operator is used to find the remainder of the division of `n` by 2. This remainder (either 0 or 1) represents the current least significant bit.
 
 5. The result (0 or 1) is then appended to the beginning of the `binary` string. This operation effectively builds the binary representation from right to left.
+
+6. The `n` is divided by 2, effectively shifting it one bit to the right.
+
+7. Steps 4-6 are repeated until `n` becomes zero, ensuring the entire binary representation is constructed.
