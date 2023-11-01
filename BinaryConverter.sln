@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryConverter", "BinaryConverter.csproj", "{5755B5E4-9082-48C4-B4D9-E4B48545142C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5755B5E4-9082-48C4-B4D9-E4B48545142C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5755B5E4-9082-48C4-B4D9-E4B48545142C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5755B5E4-9082-48C4-B4D9-E4B48545142C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5755B5E4-9082-48C4-B4D9-E4B48545142C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {485B2311-8A24-4F3F-A9BC-5ED89E7371D0}
+	EndGlobalSection
+EndGlobal

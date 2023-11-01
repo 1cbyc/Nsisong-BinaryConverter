@@ -1,0 +1,14 @@
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\bin\Debug\net7.0\BinaryConverter.exe
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\bin\Debug\net7.0\BinaryConverter.deps.json
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\bin\Debug\net7.0\BinaryConverter.runtimeconfig.json
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\bin\Debug\net7.0\BinaryConverter.dll
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\bin\Debug\net7.0\BinaryConverter.pdb
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\obj\Debug\net7.0\BinaryConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\obj\Debug\net7.0\BinaryConverter.AssemblyInfoInputs.cache
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\obj\Debug\net7.0\BinaryConverter.AssemblyInfo.cs
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\obj\Debug\net7.0\BinaryConverter.csproj.CoreCompileInputs.cache
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\obj\Debug\net7.0\BinaryConverter.dll
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\obj\Debug\net7.0\refint\BinaryConverter.dll
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\obj\Debug\net7.0\BinaryConverter.pdb
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\obj\Debug\net7.0\BinaryConverter.genruntimeconfig.cache
+C:\Users\1cbyc\Documents\projects\development\BinaryConverter\obj\Debug\net7.0\ref\BinaryConverter.dll
