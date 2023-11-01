@@ -21,3 +21,6 @@ The program provides a `toBinary` function, which takes an integer as input and 
 7. Steps 4-6 are repeated until `n` becomes zero, ensuring the entire binary representation is constructed.
 
 8. Finally, the function returns the `binary` string, which now holds the binary representation of the input number.
+
+## How to use
+
