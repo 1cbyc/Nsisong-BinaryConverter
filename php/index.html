@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nsisong - Decimal to Binary Converter</title>
+</head>
+<body>
+    <h1>Decimal-Binary Converter</h1>
+    <form action="decimalToBinaryConverter.php" method="POST">
+        <label for="decimal">Enter a Decimal Number:</label>
+        <input type="number" name="decimal" id="decimal" required>
+        <button type="submit">Convert</button>
+    </form>
+    <?php
+    if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST["decimal"])) {
+        $decimal = (int)$_POST["decimal"];
+        $binaryResult = shell_exec("php decimalToBinaryConverter.php " . $decimal);
+        echo "<p>Binary Representation: " . $binaryResult . "</p>";
+    }
+    ?>
+</body>
+</html>
