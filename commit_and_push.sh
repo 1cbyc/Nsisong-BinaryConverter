@@ -1,8 +1,6 @@
 #!/bin/bash
-set -x
-# Rest of the script...
 
-# Get the list of staged files, one per line, and store it in the 'staged_files.txt' file
+# Get the list of staged files, one per line
 git diff --cached --name-only > staged_files.txt
 
 # Loop through the list and process the files
@@ -16,3 +14,6 @@ while IFS= read -r file; do
   git push
   echo "Committed and pushed $file"
 done < staged_files.txt
+
+# Clean up the temporary file (you can keep this line)
+# rm staged_files.txt
