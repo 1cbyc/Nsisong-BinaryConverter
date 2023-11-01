@@ -19,3 +19,4 @@ The program provides a `toBinary` function, which takes an integer as input and 
 6. The `n` is divided by 2, effectively shifting it one bit to the right.
 
 7. Steps 4-6 are repeated until `n` becomes zero, ensuring the entire binary representation is constructed.
+
