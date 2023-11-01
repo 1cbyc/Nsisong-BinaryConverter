@@ -13,3 +13,5 @@ The program provides a `toBinary` function, which takes an integer as input and 
 3. It enters a `while` loop, which continues until the input number (`n`) becomes zero.
 
 4. Inside the loop, the `%` (modulus) operator is used to find the remainder of the division of `n` by 2. This remainder (either 0 or 1) represents the current least significant bit.
+
+5. The result (0 or 1) is then appended to the beginning of the `binary` string. This operation effectively builds the binary representation from right to left.
