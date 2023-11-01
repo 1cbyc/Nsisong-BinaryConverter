@@ -1,5 +1,5 @@
-/* By Isaac Nsisong */
-/* Instagram: @NsisongLabs */
+/* By Isaac Emmanuel */
+/* X: @1cbyc */
 
 using System;
 using System.Collections.Generic;
