@@ -5,3 +5,7 @@ Okay, this is supposed to be a simple C# program I created to demonstrate how to
 ## How It Works
 
 The program provides a `toBinary` function, which takes an integer as input and returns its binary representation as a string. Here's how it works:
+
+1. If the input number is 0, the function returns "0" since 0 in decimal is also 0 in binary.
+
+2. For non-zero input numbers, the function initializes an empty string called `binary` to store the binary representation.
