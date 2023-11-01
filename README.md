@@ -24,3 +24,8 @@ The program provides a `toBinary` function, which takes an integer as input and 
 
 ## How to use
 
+In the provided code, a sample number (156) is used as an example. To convert a different number to its binary representation, you can replace the value of the `number` variable in the `Main` method with the desired decimal number. When you run the program, it will display the binary representation of the input number in the console.
+
+## Express yourself
+
+Feel free to use and modify this code as needed for your own projects or educational purposes. I would be glad if you contribute too.
