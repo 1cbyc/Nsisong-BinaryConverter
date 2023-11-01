@@ -9,3 +9,5 @@ The program provides a `toBinary` function, which takes an integer as input and 
 1. If the input number is 0, the function returns "0" since 0 in decimal is also 0 in binary.
 
 2. For non-zero input numbers, the function initializes an empty string called `binary` to store the binary representation.
+
+3. It enters a `while` loop, which continues until the input number (`n`) becomes zero.
