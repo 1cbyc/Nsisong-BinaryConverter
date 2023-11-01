@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1cbyc\\Documents\\projects\\development\\BinaryConverter\\BinaryConverter.csproj",
+      "projectUniqueName": "C:\\Users\\1cbyc\\Documents\\projects\\development\\Nsisong-BinaryConverter\\BinaryConverter.csproj",
       "projectName": "BinaryConverter",
-      "projectPath": "C:\\Users\\1cbyc\\Documents\\projects\\development\\BinaryConverter\\BinaryConverter.csproj",
+      "projectPath": "C:\\Users\\1cbyc\\Documents\\projects\\development\\Nsisong-BinaryConverter\\BinaryConverter.csproj",
       "packagesPath": "C:\\Users\\1cbyc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1cbyc\\Documents\\projects\\development\\BinaryConverter\\obj\\",
+      "outputPath": "C:\\Users\\1cbyc\\Documents\\projects\\development\\Nsisong-BinaryConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1cbyc\\AppData\\Roaming\\NuGet\\NuGet.Config"
