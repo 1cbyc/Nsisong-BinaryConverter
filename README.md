@@ -1,3 +1,5 @@
+> **Licensing update (31 October 2026):** The current policy requires prior written permission for reuse and a separate agreement for AI training. See [LICENSE](LICENSE). Earlier grants remain valid for previously licensed material; [LICENSE.previous](LICENSE.previous) preserves those terms. Any older license descriptions below describe the previous policy. Contact [ei@nsisong.com](mailto:ei@nsisong.com).
+
 # nsisong-decimal-to-binary-converter
 
 Okay, this is supposed to be a simple C# program I created to demonstrate how to convert a decimal number to its binary representation. In binary, each number is composed of elements called "bits," and each bit can be either 1 or 0.
